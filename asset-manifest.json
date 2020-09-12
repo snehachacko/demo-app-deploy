@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/demo-app-deploy/static/css/main.5f361e03.chunk.css",
-    "main.js": "/demo-app-deploy/static/js/main.9975fda4.chunk.js",
-    "main.js.map": "/demo-app-deploy/static/js/main.9975fda4.chunk.js.map",
+    "main.js": "/demo-app-deploy/static/js/main.8963dc26.chunk.js",
+    "main.js.map": "/demo-app-deploy/static/js/main.8963dc26.chunk.js.map",
     "runtime-main.js": "/demo-app-deploy/static/js/runtime-main.97b99f1e.js",
     "runtime-main.js.map": "/demo-app-deploy/static/js/runtime-main.97b99f1e.js.map",
-    "static/js/2.8a343e44.chunk.js": "/demo-app-deploy/static/js/2.8a343e44.chunk.js",
-    "static/js/2.8a343e44.chunk.js.map": "/demo-app-deploy/static/js/2.8a343e44.chunk.js.map",
+    "static/js/2.dcc83177.chunk.js": "/demo-app-deploy/static/js/2.dcc83177.chunk.js",
+    "static/js/2.dcc83177.chunk.js.map": "/demo-app-deploy/static/js/2.dcc83177.chunk.js.map",
     "index.html": "/demo-app-deploy/index.html",
-    "precache-manifest.259b5af29ec20a598713df97445b39ec.js": "/demo-app-deploy/precache-manifest.259b5af29ec20a598713df97445b39ec.js",
+    "precache-manifest.5ea7801bd28e1087e18bbbd36f2ab585.js": "/demo-app-deploy/precache-manifest.5ea7801bd28e1087e18bbbd36f2ab585.js",
     "service-worker.js": "/demo-app-deploy/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/demo-app-deploy/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.8a343e44.chunk.js.LICENSE.txt": "/demo-app-deploy/static/js/2.8a343e44.chunk.js.LICENSE.txt",
+    "static/js/2.dcc83177.chunk.js.LICENSE.txt": "/demo-app-deploy/static/js/2.dcc83177.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/demo-app-deploy/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.97b99f1e.js",
-    "static/js/2.8a343e44.chunk.js",
+    "static/js/2.dcc83177.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.9975fda4.chunk.js"
+    "static/js/main.8963dc26.chunk.js"
   ]
 }
